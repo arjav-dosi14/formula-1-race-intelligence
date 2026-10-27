@@ -1,4 +1,4 @@
-# Formula 1 Race Intelligence Dashboard Analysis Report (2010–2026)
+w# Formula 1 Race Intelligence Dashboard Analysis Report (2010–2026)
 
 ## Project Overview
 A Formula 1 data analytics project built with Tableau Public to explore driver performance, constructor performance, race participation, driver nationality, podium achievements, and race completion patterns.
@@ -34,9 +34,9 @@ The project uses relevant Formula 1 tables such as race results, races, drivers,
 
 ## Tableau Dashboard and Story
 - **Dashboard:** Formula 1 Race Intelligence Dashboard
-- **Dashboard URL:** `[PASTE PUBLISHED TABLEAU PUBLIC DASHBOARD URL HERE]`
+- **Dashboard URL:** https://public.tableau.com/views/Formula1Dataset_17930209899990/Formula1RaceIntelligentDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 - **Story:** Formula 1 Race Intelligence Story
-- **Story URL:** `[PASTE PUBLISHED TABLEAU PUBLIC STORY URL HERE]`
+- **Story URL:** https://public.tableau.com/views/Formula1Dataset_17930209899990/Formula1RaceIntelligenceStory?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 Replace the placeholders with the exact published links before submitting.
 
